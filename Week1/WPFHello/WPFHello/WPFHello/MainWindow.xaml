@@ -1,0 +1,15 @@
+﻿<Window x:Class="WPFHello.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="56*"/>
+            <ColumnDefinition Width="461*"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock HorizontalAlignment="Left" Margin="44,50,0,0" TextWrapping="Wrap" Text="Please enter your name," VerticalAlignment="Top" FontSize="20" FontFamily="Global User Interface" Grid.Column="1"/>
+        <TextBox x:Name="userName" HorizontalAlignment="Left" Height="23" Margin="44,140,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="211" Grid.Column="1"/>
+        <Button x:Name="ok" Content="OK" HorizontalAlignment="Left" Margin="298,140,0,0" VerticalAlignment="Top" Width="75" Height="23" Click="okClick" Grid.Column="1"/>
+
+    </Grid>
+</Window>

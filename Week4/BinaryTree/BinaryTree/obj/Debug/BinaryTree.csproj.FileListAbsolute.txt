@@ -1,0 +1,5 @@
+C:\Users\tech140\Google Drive\School\advcsharp\Week4\BinaryTree\BinaryTree\bin\Debug\BinaryTree.dll
+C:\Users\tech140\Google Drive\School\advcsharp\Week4\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\tech140\Google Drive\School\advcsharp\Week4\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojResolveAssemblyReference.cache
+C:\Users\tech140\Google Drive\School\advcsharp\Week4\BinaryTree\BinaryTree\obj\Debug\BinaryTree.dll
+C:\Users\tech140\Google Drive\School\advcsharp\Week4\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb

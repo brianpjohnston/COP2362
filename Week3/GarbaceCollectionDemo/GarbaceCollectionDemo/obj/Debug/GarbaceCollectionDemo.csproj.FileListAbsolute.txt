@@ -1,0 +1,6 @@
+C:\Users\tech140\Google Drive\School\advcsharp\Week3\GarbaceCollectionDemo\GarbaceCollectionDemo\bin\Debug\GarbaceCollectionDemo.exe.config
+C:\Users\tech140\Google Drive\School\advcsharp\Week3\GarbaceCollectionDemo\GarbaceCollectionDemo\bin\Debug\GarbaceCollectionDemo.exe
+C:\Users\tech140\Google Drive\School\advcsharp\Week3\GarbaceCollectionDemo\GarbaceCollectionDemo\bin\Debug\GarbaceCollectionDemo.pdb
+C:\Users\tech140\Google Drive\School\advcsharp\Week3\GarbaceCollectionDemo\GarbaceCollectionDemo\obj\Debug\GarbaceCollectionDemo.csprojResolveAssemblyReference.cache
+C:\Users\tech140\Google Drive\School\advcsharp\Week3\GarbaceCollectionDemo\GarbaceCollectionDemo\obj\Debug\GarbaceCollectionDemo.exe
+C:\Users\tech140\Google Drive\School\advcsharp\Week3\GarbaceCollectionDemo\GarbaceCollectionDemo\obj\Debug\GarbaceCollectionDemo.pdb

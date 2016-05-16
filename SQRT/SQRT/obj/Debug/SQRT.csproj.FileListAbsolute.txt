@@ -1,0 +1,16 @@
+C:\Users\tech140\Google Drive\School\advcsharp\Week1\SQRT\SQRT\bin\Debug\SQRT.exe.config
+C:\Users\tech140\Google Drive\School\advcsharp\Week1\SQRT\SQRT\obj\Debug\SQRT.csprojResolveAssemblyReference.cache
+C:\Users\tech140\Google Drive\School\advcsharp\Week1\SQRT\SQRT\obj\Debug\MainWindow.baml
+C:\Users\tech140\Google Drive\School\advcsharp\Week1\SQRT\SQRT\obj\Debug\MainWindow.g.cs
+C:\Users\tech140\Google Drive\School\advcsharp\Week1\SQRT\SQRT\obj\Debug\App.g.cs
+C:\Users\tech140\Google Drive\School\advcsharp\Week1\SQRT\SQRT\obj\Debug\SQRT_MarkupCompile.cache
+C:\Users\tech140\Google Drive\School\advcsharp\Week1\SQRT\SQRT\obj\Debug\SQRT.g.resources
+C:\Users\tech140\Google Drive\School\advcsharp\Week1\SQRT\SQRT\obj\Debug\SQRT.Properties.Resources.resources
+C:\Users\tech140\Google Drive\School\advcsharp\Week1\SQRT\SQRT\obj\Debug\SQRT.csproj.GenerateResource.Cache
+C:\Users\tech140\Google Drive\School\advcsharp\Week1\SQRT\SQRT\bin\Debug\SQRT.exe
+C:\Users\tech140\Google Drive\School\advcsharp\Week1\SQRT\SQRT\bin\Debug\SQRT.pdb
+C:\Users\tech140\Google Drive\School\advcsharp\Week1\SQRT\SQRT\obj\Debug\SQRT.exe
+C:\Users\tech140\Google Drive\School\advcsharp\Week1\SQRT\SQRT\obj\Debug\SQRT.pdb
+C:\Users\brian\Google Drive\School\advcsharp\Week1\SQRT\SQRT\bin\Debug\SQRT.exe.config
+C:\Users\brian\Google Drive\School\advcsharp\Week1\SQRT\SQRT\obj\Debug\SQRT.exe
+C:\Users\brian\Google Drive\School\advcsharp\Week1\SQRT\SQRT\obj\Debug\SQRT.pdb

@@ -1,0 +1,39 @@
+C:\Users\Myron\Desktop\Adv Programming C#\Projects\DataCollector\DataCollector\bin\Debug\DataCollector.exe.config
+C:\Users\Myron\Desktop\Adv Programming C#\Projects\DataCollector\DataCollector\bin\Debug\DataCollector.exe
+C:\Users\Myron\Desktop\Adv Programming C#\Projects\DataCollector\DataCollector\bin\Debug\DataCollector.pdb
+C:\Users\Myron\Desktop\Adv Programming C#\Projects\DataCollector\DataCollector\obj\Debug\DataCollector.csprojResolveAssemblyReference.cache
+C:\Users\Myron\Desktop\Adv Programming C#\Projects\DataCollector\DataCollector\obj\Debug\MainWindow.baml
+C:\Users\Myron\Desktop\Adv Programming C#\Projects\DataCollector\DataCollector\obj\Debug\MainWindow.g.cs
+C:\Users\Myron\Desktop\Adv Programming C#\Projects\DataCollector\DataCollector\obj\Debug\App.g.cs
+C:\Users\Myron\Desktop\Adv Programming C#\Projects\DataCollector\DataCollector\obj\Debug\DataCollector_MarkupCompile.cache
+C:\Users\Myron\Desktop\Adv Programming C#\Projects\DataCollector\DataCollector\obj\Debug\DataCollector.g.resources
+C:\Users\Myron\Desktop\Adv Programming C#\Projects\DataCollector\DataCollector\obj\Debug\DataCollector.Properties.Resources.resources
+C:\Users\Myron\Desktop\Adv Programming C#\Projects\DataCollector\DataCollector\obj\Debug\DataCollector.csproj.GenerateResource.Cache
+C:\Users\Myron\Desktop\Adv Programming C#\Projects\DataCollector\DataCollector\obj\Debug\DataCollector.exe
+C:\Users\Myron\Desktop\Adv Programming C#\Projects\DataCollector\DataCollector\obj\Debug\DataCollector.pdb
+C:\Projects\DataCollector\DataCollector\DataCollector\bin\Debug\DataCollector.exe.config
+C:\Projects\DataCollector\DataCollector\DataCollector\obj\Debug\DataCollector.exe
+C:\Projects\DataCollector\DataCollector\DataCollector\obj\Debug\DataCollector.pdb
+C:\Projects\DataCollector\DataCollector\DataCollector\bin\Debug\DataCollector.exe
+C:\Projects\DataCollector\DataCollector\DataCollector\bin\Debug\DataCollector.pdb
+C:\Projects\DataCollector\DataCollector\DataCollector\obj\Debug\DataCollector.csprojResolveAssemblyReference.cache
+C:\Projects\DataCollector\DataCollector\DataCollector\obj\Debug\MainWindow.baml
+C:\Projects\DataCollector\DataCollector\DataCollector\obj\Debug\MainWindow.g.cs
+C:\Projects\DataCollector\DataCollector\DataCollector\obj\Debug\App.g.cs
+C:\Projects\DataCollector\DataCollector\DataCollector\obj\Debug\DataCollector_MarkupCompile.cache
+C:\Projects\DataCollector\DataCollector\DataCollector\obj\Debug\DataCollector.g.resources
+C:\Projects\DataCollector\DataCollector\DataCollector\obj\Debug\DataCollector.Properties.Resources.resources
+C:\Projects\DataCollector\DataCollector\DataCollector\obj\Debug\DataCollector.csproj.GenerateResource.Cache
+C:\Users\tech140\Google Drive\School\advcsharp\DataCollector\DataCollector(1)\DataCollector\DataCollector\bin\Debug\DataCollector.exe.config
+C:\Users\tech140\Google Drive\School\advcsharp\DataCollector\DataCollector(1)\DataCollector\DataCollector\obj\Debug\DataCollector.exe
+C:\Users\tech140\Google Drive\School\advcsharp\DataCollector\DataCollector(1)\DataCollector\DataCollector\obj\Debug\DataCollector.pdb
+C:\Users\tech140\Google Drive\School\advcsharp\DataCollector\DataCollector(1)\DataCollector\DataCollector\bin\Debug\DataCollector.exe
+C:\Users\tech140\Google Drive\School\advcsharp\DataCollector\DataCollector(1)\DataCollector\DataCollector\bin\Debug\DataCollector.pdb
+C:\Users\tech140\Google Drive\School\advcsharp\DataCollector\DataCollector(1)\DataCollector\DataCollector\obj\Debug\DataCollector.csprojResolveAssemblyReference.cache
+C:\Users\tech140\Google Drive\School\advcsharp\DataCollector\DataCollector(1)\DataCollector\DataCollector\obj\Debug\MainWindow.baml
+C:\Users\tech140\Google Drive\School\advcsharp\DataCollector\DataCollector(1)\DataCollector\DataCollector\obj\Debug\MainWindow.g.cs
+C:\Users\tech140\Google Drive\School\advcsharp\DataCollector\DataCollector(1)\DataCollector\DataCollector\obj\Debug\App.g.cs
+C:\Users\tech140\Google Drive\School\advcsharp\DataCollector\DataCollector(1)\DataCollector\DataCollector\obj\Debug\DataCollector_MarkupCompile.cache
+C:\Users\tech140\Google Drive\School\advcsharp\DataCollector\DataCollector(1)\DataCollector\DataCollector\obj\Debug\DataCollector.g.resources
+C:\Users\tech140\Google Drive\School\advcsharp\DataCollector\DataCollector(1)\DataCollector\DataCollector\obj\Debug\DataCollector.Properties.Resources.resources
+C:\Users\tech140\Google Drive\School\advcsharp\DataCollector\DataCollector(1)\DataCollector\DataCollector\obj\Debug\DataCollector.csproj.GenerateResource.Cache
